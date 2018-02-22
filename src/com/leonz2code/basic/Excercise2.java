@@ -1,5 +1,6 @@
 package com.leonz2code.basic;
-
+//2. Programa java que realice lo siguiente: declarar dos variables X e Y de tipo int, dos variables N y M de tipo double y asigna a cada una un valor. 
+//A continuación reliza y muestra muestra por pantalla una serie de operaciones entre ellas. 
 import java.text.DecimalFormat;
 
 public class Excercise2 {
