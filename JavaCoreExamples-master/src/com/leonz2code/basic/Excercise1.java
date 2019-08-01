@@ -21,6 +21,10 @@ public class Excercise1 {
 		System.out.println("La resta de int N menos double A es " + rest);
 		System.out.println("el valor numerico de char C es " + Character.getNumericValue(C));
 		System.out.println("el valor numerico de char C es " + (int)C);
+		
+		System.out.println("this is a return to GIT FROM Long Time"
+				+ "I believe I have choosen a dificcult path, but from my point of view"
+				+ "I have two options, LIVE or DIE which wins? lets see");
 
 	}
 /*
